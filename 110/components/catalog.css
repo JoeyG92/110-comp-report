@@ -1,0 +1,11 @@
+.catalog .product {
+    display: inline-block;
+  }
+  
+  .catalog h1 {
+    font-family: "Raleway";
+    font-weight: 300;
+    margin-top: 15px;
+    margin-bottom: 20px;
+  }
+  

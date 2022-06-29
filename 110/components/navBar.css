@@ -1,0 +1,10 @@
+.navbar {
+    background-color: #014e36;
+  }
+  
+  .navbar .navbar-brand {
+    font-family: "Pacifico";
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 100;
+  }

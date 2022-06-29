@@ -1,0 +1,13 @@
+.footer {
+    border: 1px solid #333;
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+  
+  .footer h5 {
+    margin: 5px 0;
+  }
+  
+  .footer h6 {
+    margin: 10px 0;
+  }

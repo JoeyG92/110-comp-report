@@ -1,0 +1,9 @@
+.quantity-picker {
+}
+
+.quantity-picker button {
+  font-weight: 300;
+  font-size: 16px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 5px 10px;
+}

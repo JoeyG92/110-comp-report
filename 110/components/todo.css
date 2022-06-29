@@ -1,0 +1,23 @@
+.todo {
+    background-color: beige;
+    padding: 120px 40px;
+}
+
+.todo .form {
+    background-color: #fafafa;
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid #6a6a6a;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.todo input {
+    width: 250px;
+}
+
+.todo button {
+    margin-left: 10px;
+    margin-top: -3px;
+}
